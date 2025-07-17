@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on IT Automation and Data Analysis
 - 📫 How to reach me vanessa.vazquez@caylent.com
 - 😄 Pronouns: She
-- ⚡ Fun fact: I am a Pharmacist and passionate about IT
 
 <!---
 vaanheva/vaanheva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
